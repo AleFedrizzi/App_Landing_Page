@@ -1,2 +1,2 @@
-# App_Landing_Page
-Projeto criação Landing Page com Html/Css
+# Projeto criação Landing Page com Html/Css
+https://alefedrizzi.github.io/App_Landing_Page/
